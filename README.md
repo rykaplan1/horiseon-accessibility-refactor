@@ -15,3 +15,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+This webpage can be accessed at: https://rykaplan1.github.io/upenn-bootcamp-hw1/
+![image](https://user-images.githubusercontent.com/89349342/143946107-a25bbbd8-e956-4fec-85cd-e9d41e329025.png)
