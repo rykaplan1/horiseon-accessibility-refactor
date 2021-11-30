@@ -1,6 +1,8 @@
 # upenn-bootcamp-hw1
 
-Refactoring of the Horiseon webpage's HTML to make it follow accessibility standards (defined below) so that the site is optimized for search engines.
+## Description
+
+Refactoring of the Horiseon webpage's HTML to make it follow accessibility standards (defined below) so that the site is optimized for search engines. Working on this project increased my familiarity with semantic HTML elements, which will serve to make any HTML I write in the future more human-readable.
 
 Criteria:
 
@@ -16,5 +18,23 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Installation
+
+N/A
+
+## Usage
+
 This webpage can be accessed at: https://rykaplan1.github.io/upenn-bootcamp-hw1/
 ![image](https://user-images.githubusercontent.com/89349342/143946107-a25bbbd8-e956-4fec-85cd-e9d41e329025.png)
+
+## Credits
+
+N/A
+
+## License 
+
+N/A
+
+
+
+
